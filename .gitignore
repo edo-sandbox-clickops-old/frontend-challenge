@@ -48,3 +48,9 @@ Thumbs.db
 *.mov
 *.wmv
 
+#bundled files
+bundle.js
+bundle.map
+
+#package-lock
+package-lock.json
