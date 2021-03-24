@@ -13,4 +13,4 @@ We can acces our main page in:
 
 We can start developing the application in the _/edo-frontend/src/App.jsx_ file.
 
-We have the file _/edo-frontend/stylesheets/global.scss_ as the main sass file for the styles.
+We have the file _/edo-frontend/stylesheets/global.css_ as the main css file for the styles (You can change it as you want).
