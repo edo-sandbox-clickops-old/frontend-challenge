@@ -23,12 +23,5 @@ module.exports = {
             },
             //TODO: USE SASS LOADER OR SIMILAR
         ]
-    },
-    optimization: {
-        minimizer: [
-            new UglifyJsPlugin({
-                sourceMap: true
-            })
-        ]
     }
 }
